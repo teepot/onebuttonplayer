@@ -13,10 +13,10 @@ import time
 
 
 # assign gpio number to constant value
-RESET_GPIO = 26
-CONTROL_GPIO = 16
-LED_READY_GPIO = 6
-LED_GPIO = 13
+RESET_GPIO = 26     # pin 37
+CONTROL_GPIO = 2    # pin  3
+LED_READY_GPIO = 6  # pin 31
+LED_GPIO = 13       # pin 33
 
 IS_PAUSED = False
 
